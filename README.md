@@ -107,12 +107,10 @@ All Rights Reserved. This code is publicly viewable for portfolio and demo purpo
 
 
 ## 👤 Author
-Muhammad Mustafa Khan
 
-AI-Empowered Full-Stack Developer & Computer Networks & Security Student @ SSUET
+**Muhammad Mustafa Khan**  
+*AI-Empowered Full-Stack Developer & Computer Networks & Security Student @ SSUET*
 
-GitHub: @mustard-collab
-
-LinkedIn: muhammad-mustafa11
-
-Portfolio: mustard-collab.github.io/portfolio
+* **GitHub:** [@mustard-collab](https://github.com/mustard-collab)
+* **LinkedIn:** [muhammad-mustafa11](https://www.linkedin.com/in/muhammad-mustafa11)
+* **Portfolio:** [mustard-collab.github.io/portfolio](https://mustard-collab.github.io/portfolio)
