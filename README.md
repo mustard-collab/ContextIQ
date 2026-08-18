@@ -43,6 +43,8 @@ Follow these step-by-step instructions to get both the backend server and the Ch
 git clone [https://github.com/mustard-collab/ContextIQ.git](https://github.com/mustard-collab/ContextIQ.git)
 cd ContextIQ
 
+---
+
 ### Step 2: Set Up & Start the Backend
 **1.**Open your terminal and navigate into the backend directory:
 
@@ -81,6 +83,8 @@ python main.py
 # or: uvicorn main:app --reload
 (Your backend should now be running locally, e.g., at http://localhost:5000 or http://localhost:8000)
 
+---
+
 ### Step 3: Load the Extension into Google Chrome
 
 **1.**Open Google Chrome and go to chrome://extensions/.
@@ -93,8 +97,14 @@ python main.py
 
 **5.**Pin ContextIQ to your Chrome toolbar and open any webpage to start using it!
 
+---
+
+
 📄 License
 All Rights Reserved. This code is publicly viewable for portfolio and demo purposes only.
+
+---
+
 
 👤 Author
 Muhammad Mustafa Khan
