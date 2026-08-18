@@ -46,12 +46,12 @@ cd ContextIQ
 ---
 
 ### Step 2: Set Up & Start the Backend
-**1.**Open your terminal and navigate into the backend directory:
+1. Open your terminal and navigate into the backend directory:
 
 ```Bash
 cd backend
 ```
-**2.**Install all required dependencies:
+2. Install all required dependencies:
 
 For Node.js / JavaScript projects:
 
@@ -62,14 +62,14 @@ For Python projects:
 ```Bash
 pip install -r requirements.txt
 ```
-**3.**Configure Environment Variables:
+3. Configure Environment Variables:
 Create a .env file in the root of the backend/ folder and insert your credentials:
 
 Code snippet
 GEMINI_API_KEY=your_gemini_api_key_here
 PORT=5000
 
-**4.**Start the backend server:
+4. Start the backend server:
 
 For Node.js:
 
@@ -87,15 +87,15 @@ python main.py
 
 ### Step 3: Load the Extension into Google Chrome
 
-**1.**Open Google Chrome and go to chrome://extensions/.
+1. Open Google Chrome and go to chrome://extensions/.
 
-**2.**In the top-right corner, toggle Developer mode to ON.
+2. In the top-right corner, toggle Developer mode to ON.
 
-**3.**Click the Load unpacked button in the top-left corner.
+3. Click the Load unpacked button in the top-left corner.
 
-**4.**Select the extension folder from your ContextIQ project directory.
+4. Select the extension folder from your ContextIQ project directory.
 
-**5.**Pin ContextIQ to your Chrome toolbar and open any webpage to start using it!
+5. Pin ContextIQ to your Chrome toolbar and open any webpage to start using it!
 
 ---
 
