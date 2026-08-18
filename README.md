@@ -42,7 +42,7 @@ Follow these step-by-step instructions to get both the backend server and the Ch
 ```bash
 git clone [https://github.com/mustard-collab/ContextIQ.git](https://github.com/mustard-collab/ContextIQ.git)
 cd ContextIQ
-
+```
 ---
 
 ### Step 2: Set Up & Start the Backend
@@ -50,7 +50,7 @@ cd ContextIQ
 
 ```Bash
 cd backend
-
+```
 **2.**Install all required dependencies:
 
 For Node.js / JavaScript projects:
@@ -58,10 +58,10 @@ For Node.js / JavaScript projects:
 ```Bash
 npm install
 For Python projects:
-
+```
 ```Bash
 pip install -r requirements.txt
-
+```
 **3.**Configure Environment Variables:
 Create a .env file in the root of the backend/ folder and insert your credentials:
 
@@ -77,12 +77,12 @@ For Node.js:
 npm start
 # or: node index.js / node server.js
 For Python:
-
+```
 ```Bash
 python main.py
 # or: uvicorn main:app --reload
 (Your backend should now be running locally, e.g., at http://localhost:5000 or http://localhost:8000)
-
+```
 ---
 
 ### Step 3: Load the Extension into Google Chrome
@@ -100,13 +100,13 @@ python main.py
 ---
 
 
-📄 License
+## 📄 License
 All Rights Reserved. This code is publicly viewable for portfolio and demo purposes only.
 
 ---
 
 
-👤 Author
+## 👤 Author
 Muhammad Mustafa Khan
 
 AI-Empowered Full-Stack Developer & Computer Networks & Security Student @ SSUET
